@@ -12,6 +12,7 @@ Python libs: argparse, boto3, sys
 ```bash
 $ pip install boto3
 $ pip install argparse
+```
 
 # Usage example
 
